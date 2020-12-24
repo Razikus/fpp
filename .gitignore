@@ -1,3 +1,5 @@
+.balena
+
 *.o
 .*.swp
 *.pyc
